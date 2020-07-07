@@ -1,0 +1,5 @@
+1. Creating the player controls and moements.
+2. Nav mesh Agent is not  working.
+3. Bringing out the weapon and placing the crosshair, disabling the mouse.
+4. Making the muzzle, hitmaker and typecasting.
+5. Adding sound and Ammino.
